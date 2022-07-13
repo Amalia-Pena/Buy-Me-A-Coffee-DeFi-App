@@ -34,7 +34,23 @@ async function printMemos(memos) {
 
 
 async function main() {
+  // Get example accounts
 
+  // Get the contract to deploy
+
+  //Deploy contract
+
+  // Check balances before the coffee purchase
+
+  // Buy the owner a few coffees
+
+  // Check balances after coffee purchase
+
+  // Withdraw funds
+
+  // Check balance after withdraw
+
+  // Read all the memos left for the owner
 }
 
 // We recommend this pattern to be able to use async/await everywhere
